@@ -8,6 +8,7 @@
     "supertest": "^6.2.1"
   },
   "devDependencies": {
+    "jest": "^27.4.7",
     "jest-cli": "^27.4.7"
   },
   "scripts": {
