@@ -1,0 +1,27 @@
+{
+  "name": "cicd-proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.2",
+    "supertest": "^6.2.1"
+  },
+  "devDependencies": {
+    "jest-cli": "^27.4.7"
+  },
+  "scripts": {
+    "start": "node src",
+    "test": "jest src/app.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wredmann/cicd-proj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wredmann/cicd-proj/issues"
+  },
+  "homepage": "https://github.com/wredmann/cicd-proj#readme"
+}
